@@ -1,4 +1,22 @@
+# Hi there, I'm Manzil! 👋
 
+🚀 **Frontend Developer** *(In Learning Phase)*
+
+I build responsive, modern, and user-centric web applications. Currently focused on mastering frontend technologies, expanding my coding skills, and exploring new web tools.
+
+---
+
+### 🌟 About Me
+* 💼 **Current Status:** Frontend Developer in Learning Phase 🚀
+* 🎯 **Interests:** Frontend Development, Continuous Learning & Media Editing 🎬
+* 🎓 **Education:** Reading CSIT (TU) at Nepathya College | Deep Boarding High School Alumnus
+* 🎨 **Hobbies:** Singing 🎤 | Reading Books 📚 | Badminton 🏸
+
+---
+
+*“Always learning, building, and growing.”* ✨
+
+*“Building the web, one component at a time.”* ✨
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manzil.chaudhary.33) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aka_phenom ) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@man_zil_06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aka.pheom@gmail.com) 
 
